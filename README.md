@@ -1,10 +1,10 @@
-#📋 App para Consultas
+# 📋 App para Consultas
 
 Este é um aplicativo desktop desenvolvido em C# utilizando Windows Forms na IDE Visual Studio. O objetivo principal é facilitar o cadastro de clientes e o cadastro de automóveis.
 
 O sistema utiliza SQLite como banco de dados local, facilitando o armazenamento e consulta das informações de forma prática e eficiente.
 
-#🧵 Objetivo 
+# 🧵 Objetivo 
 
 Facilitar a gestão de contatos de clientes para pequenos empreendedores, oferecendo um sistema simples e funcional para:
 
@@ -14,7 +14,7 @@ Facilitar a gestão de contatos de clientes para pequenos empreendedores, oferec
 
 - Consultar informações rapidamente
 
-#🖥️ Tecnologias Utilizadas 
+# 🖥️ Tecnologias Utilizadas 
 
 - C#
 
