@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Flavinn\\source\\repos\\A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1A4D9C-D653-43E8-A20C-013937338480}|A.csproj|c:\\users\\flavinn\\source\\repos\\a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C1A4D9C-D653-43E8-A20C-013937338480}|A.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1A4D9C-D653-43E8-A20C-013937338480}|AppSSCONCEPT.csproj|c:\\users\\flavinn\\source\\repos\\a\\formvisualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C1A4D9C-D653-43E8-A20C-013937338480}|AppSSCONCEPT.csproj|solutionrelative:formvisualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1A4D9C-D653-43E8-A20C-013937338480}|AppSSCONCEPT.csproj|c:\\users\\flavinn\\source\\repos\\a\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C1A4D9C-D653-43E8-A20C-013937338480}|AppSSCONCEPT.csproj|solutionrelative:formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormVISUALIZAR.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Flavinn\\source\\repos\\A\\FormVISUALIZAR.cs",
+              "RelativeDocumentMoniker": "FormVISUALIZAR.cs",
+              "ToolTip": "C:\\Users\\Flavinn\\source\\repos\\A\\FormVISUALIZAR.cs [Design]",
+              "RelativeToolTip": "FormVISUALIZAR.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:37:21.341Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Flavinn\\source\\repos\\A\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "FormCadastro.cs",
+              "ToolTip": "C:\\Users\\Flavinn\\source\\repos\\A\\FormCadastro.cs [Design]",
+              "RelativeToolTip": "FormCadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:35:42.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Flavinn\\source\\repos\\A\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Flavinn\\source\\repos\\A\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:22:35.897Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
